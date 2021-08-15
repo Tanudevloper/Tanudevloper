@@ -1,4 +1,4 @@
-                                                              Hello Developers, I'm Tanu Tiwari 👋
+                                                             Hello Developers, I'm Tanu Tiwari 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanu-tiwari31399/)](https://www.linkedin.com/in/tanu-tiwari31399/)
 
