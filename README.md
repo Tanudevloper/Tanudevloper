@@ -4,7 +4,8 @@
 
 I'm
 Full Stack web devloper
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Strong in design and integration with intutive problem solving skills. proficient in HTML, CSS, SQL, MONGODB, BOOTSTRAP and JAVASCRIPT. Passionate about implementing and launching new project. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level full stack developer with a reputed firm driven by technology.
+you can reach me: <img alt="Email" src="https://img.shields.io/badge/Gmail-%23563D7C.svg?style=flat-square logo=gmail logo Color=white"/>
 
 
 Languages and Tools:
