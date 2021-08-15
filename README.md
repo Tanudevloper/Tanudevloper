@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanu-tiwari31399/)
+![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanu-tiwari31399)
 
 I'm
 Full Stack Solution Architect
