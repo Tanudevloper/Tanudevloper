@@ -5,7 +5,7 @@
 I'm
 Full Stack web devloper
 Strong in design and integration with intutive problem solving skills. proficient in HTML, CSS, SQL, MONGODB, BOOTSTRAP and JAVASCRIPT. Passionate about implementing and launching new project. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level full stack developer with a reputed firm driven by technology.
-you can reach me:[![Email Badge](https://img.shields.io/badge/-Tanu-blue?style=flat-square&logo=Gmail&logoColor=white&link="mailto:tiwaritanu@gmail.com")](link="mailto:tiwaritanu@gmail.com")
+you can reach me:<a href="mailto:info.tiwaritanu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 Languages and Tools:
 
