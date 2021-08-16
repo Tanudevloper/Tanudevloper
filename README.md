@@ -1,4 +1,5 @@
-                                                             Hello Developers, I'm Tanu Tiwari 👋
+   ### Hello Developers, I'm Tanu Tiwari <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+                                                           
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanu-tiwari31399/)](https://www.linkedin.com/in/tanu-tiwari31399/)
 
